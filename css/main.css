@@ -1,0 +1,25 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+a,
+a:hover,
+a:visited,
+a:active
+{
+	color: #000;
+	text-decoration: none;
+}
+
+ul
+{
+	list-style: none;
+	display: flex;
+}
+
+.menu
+{
+	display: flex;
+}
