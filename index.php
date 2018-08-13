@@ -11,12 +11,31 @@
 	<div class="header">
 		<div class="menu">
 			<div class="container">
-				<ul>
-					<li><a href="http://vetal.cn.ua/index.php"><h2>PlayStore</h2></a></li>
-					<li><a href="#">1</a></li>
-					<li><a href="#">2</a></li>
-					<li><a href="#">3</a></li>
-				</ul>
+				<div class="logo">
+					<a href="http://vetal.cn.ua/index.php">
+						<h2>PlayStore</h2>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="first-block">
+		<div class="container">
+			<h4>Лучшие предложения</h4>
+			<div class="content">
+				<div class="games">
+				<div class="card col-xl-3">
+					<img class="card-img-top" src="img/pubg.jpg">
+						<div class="card-body">
+							<a href="#"><h5 class="card-title">PUBG</h5></a>
+							<p>Аккаунт | Продано: 0</p>
+							<div class="card-bottom">
+								<h6>110 &#8381</h6>
+								<a href="#" class="btn btn-success right">Купить</a>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

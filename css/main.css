@@ -13,13 +13,55 @@ a:active
 	text-decoration: none;
 }
 
-ul
+.right
 {
-	list-style: none;
-	display: flex;
+	float: right;
 }
 
 .menu
 {
+	padding-top: 5px;
+}
+
+.games
+{
+	padding-top: 20px;
 	display: flex;
+}
+
+.card-bottom
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.games .card-bottom a,
+.games .card-bottom a:hover,
+.games .card-bottom a:visited,
+.games .card-bottom a:active
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.card-bottom h6
+{
+	font-weight: 700;
+}
+
+.first-block
+{
+	padding-top: 50px;
+}
+
+.image-block img
+{
+	width: 100%;
+	height: auto;
+}
+
+.first-block h4
+{
+	font-weight: 600;
 }
